@@ -1,0 +1,46 @@
+/* bundled styles */
+/* form #7400 */
+.mc4wp-form-7400 label, 
+.mc4wp-form-7400 input, 
+.mc4wp-form-7400 textarea, 
+.mc4wp-form-7400 select, 
+.mc4wp-form-7400 button {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.mc4wp-form-7400 {
+	display: block;
+	background-repeat: repeat;
+}
+
+.mc4wp-form-7400 label {
+	vertical-align: top;
+	margin-bottom: 6px;
+	display: block;
+}
+
+.mc4wp-form-7400 input[type='text'],
+.mc4wp-form-7400 input[type='email'],
+.mc4wp-form-7400 input[type='url'],
+.mc4wp-form-7400 input[type='tel'],
+.mc4wp-form-7400 input[type='number'],
+.mc4wp-form-7400 input[type='date'],
+.mc4wp-form-7400 select,
+.mc4wp-form-7400 textarea {
+	vertical-align: top;
+	margin-bottom: 6px;
+	padding: 6px 12px;
+	width: 100%; max-width: 60%;
+	display: inline-block;
+}
+
+.mc4wp-form-7400 input[type='radio'],
+.mc4wp-form-7400 input[type='checkbox'] {
+	margin-right: 6px;
+	display: inline-block
+}
+
+
+
